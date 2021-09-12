@@ -1,6 +1,6 @@
 # pradocumentation
 
-(CODEREPOS.md)
+[Code Repos](CODEREPOS.md)
 
-(DATABASE.md)
+[Database](DATABASE.md)
 
