@@ -30,6 +30,6 @@ Stefanie's son, Damien, age 12, is on her membership.  He would be a family memb
 
 This one is tricky because both have a points history with significant amounts of work.  To this point we have not combined their membership.  I advised them not to for other reasons.  If they pushed the issue I would have to figure it out.
 
-One way to do this would be to combine the work history on one membership, essentially a merge of all the history into one membership.  
+One way to do this would be to merge the work history into one membership.  But this would be for historical purposes only.  
 
-We could combine the membership and use the earliest date as their start date.  Then list one as the primary, and the others (including all kids) as family members on the membership.
+We could combine the membership and use the oldest membership date (Chris in this case) as their start date.  Then list one as the primary, and the others (including all kids) as family members on the membership.
